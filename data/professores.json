@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Gustavo web",
+        "codigo": "254162",
+        "data_nascimento": "26/03/1957",
+        "salario": 2600
+    },
+    {
+        "nome": "Marcos choba",
+        "codigo": "61245127",
+        "data_nascimento": "26/03/1967",
+        "salario": 900.30
+    },
+    {
+        "nome": "Guilherme",
+        "codigo": "7823617",
+        "data_nascimento": "26/03/1978",
+        "salario": 2000
+    },
+    {
+        "nome": "Marcela",
+        "codigo": "3782678",
+        "data_nascimento": "26/03/1960",
+        "salario": 1500
+    }
+]
